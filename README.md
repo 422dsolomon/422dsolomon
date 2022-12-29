@@ -1,4 +1,10 @@
-### Danny Solomon's Github
+<div align = "center">
+  <p>
+  <h1>Danny Solomon's Github</h1>
+  </p>
+</div>
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -10,6 +16,21 @@
   </a>
 </div>
 
+---
+
+<div align = "center">
+  <p>
+  <h2>About Me: </h2>
+  
+  <ul>
+    <li>I'm a senior studying biomedical engineering at Harvard University</li>
+    <li>Looking to work as a software engineer after graduation</li>
+    <li>You can reach me at: Dsolomon@college.harvard.edu</li>
+  </ul>
+  </p>
+</div>
+
+- I am a senior studying biomedical engineering at Harvard University
 <!--
 **422dsolomon/422dsolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

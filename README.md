@@ -18,9 +18,9 @@
 
 ---
 
-<div align = "center">
+<div>
   <p>
-  <h2>About Me: </h2>
+  <h3>About Me: </h3>
   
   <ul>
     <li>I'm a senior studying biomedical engineering at Harvard University</li>
@@ -30,7 +30,7 @@
   </p>
 </div>
 
-- I am a senior studying biomedical engineering at Harvard University
+
 <!--
 **422dsolomon/422dsolomon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

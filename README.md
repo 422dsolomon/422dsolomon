@@ -23,9 +23,9 @@
   <h3>About Me: </h3>
   <div>
     <ul>
-    <li>I'm a senior studying biomedical engineering at Harvard University</li>
-    <li>Looking to work as a software engineer after graduation</li>
-    <li>You can reach me at: Dsolomon@college.harvard.edu</li>
+    <li>Graduate from Harvard University with a degree in Biomedical Engineering</li>
+    <li>Software engineer</li>
+    <li>You can reach me at: 422Dsolomon@gmail.com</li>
   </ul>
   </div>
   </p>

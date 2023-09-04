@@ -26,6 +26,7 @@
     <li>Graduate from Harvard University with a degree in Biomedical Engineering</li>
     <li>Software engineer</li>
     <li>You can reach me at: 422Dsolomon@gmail.com</li>
+    <li>You can find my website by clicking this <a href = "https://dsolomon-portfolio.netlify.app/">link</a></li>
   </ul>
   </div>
   </p>

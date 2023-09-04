@@ -24,7 +24,7 @@
   <div>
     <ul>
     <li>Harvard Grad: Captain of the Fencing Team 2021-22 | Co-President of SAWL 2020-2023 | SAAC Board Member 2021-23</li>
-    <li>Software Engineer</li>
+    <li>Software and Biomedical Engineer</li>
     <li>You can reach me at: 422Dsolomon@gmail.com</li>
     <li>You can find my website by clicking this <a href = "https://dsolomon-portfolio.netlify.app/">link</a></li>
   </ul>
